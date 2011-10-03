@@ -5,10 +5,9 @@ TrelloActivityNotifier is a Chrome browser extension that adds functionality to 
  - Highlights unread items in the Activity Stream on the right side of the board. Clicking anywhere in the window would mark them as read.
  - Highlights the cards which have unread activity on the board. Opening the card will mark them as read.
 
-
 Installation :
 Save all the files in this folder to a folder on your disk. Use Chrome's Extension's Developer mode to load unpacked extensions in that folder.
 
-I also acknowledge that this extension might not be useful once Trello adds some advanced Notification-related features. If someone wants to publish this to the Chrome Web Store, please feel free, but please give some credit to me too.
+If someone wants to publish this to the Chrome Web Store, please feel free, but please give me credit too.
 
 Acknowledgements : The SoylentGreen Dev team at TheLadders for beta-testing this extension and their valuable input on the features.
