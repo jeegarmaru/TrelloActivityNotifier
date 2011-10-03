@@ -1,0 +1,11 @@
+{
+  "name": "Trello Activity Notifier",
+  "version": "0.2",
+  "description": "Notifies you when there's a new Activity on your Trello board",
+  "content_scripts": [
+    {
+      "matches": ["https://trello.com/*"],
+      "js": ["jquery-1.6.4.min.js","trello-notifier.js"]
+    }
+  ]
+}
